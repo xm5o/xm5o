@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi, I'm **Immortal** AKA **Apocalypse** 👋  
-*Frontend Developer • Discord.js Developer • Web Enthusiast*
+*Frontend Developer • Discord.js Developer • Web Developer*
 
 </div>
 
