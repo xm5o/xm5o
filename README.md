@@ -1,8 +1,11 @@
 <div align="center">
 
-## Hi, I'm **Immortal** AKA **Apocalypse** 👋
+## Hi, I'm **Immortal** AKA **Apocalypse** 👋  
+*Frontend Developer • Discord.js Developer • Web Enthusiast*
 
 </div>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -13,13 +16,14 @@ const immortal = {
   pronouns: ["he", "him"],
   age: "1x",
   languages: ["HTML", "CSS", "JavaScript", "Lua", "Haxe"],
-  focus: ["Discord.js", "Web Development"]
+  focus: ["Discord.js", "Web Development"],
+  mindset: "Always learning & building"
 };
-````
+```
 
-* 🧠 Software Engineer & Discord.js Developer
-* 🎮 Love Open-World, FPS, Adventure, and Platformer games
-* 🚀 Always learning new skills and enjoying challenging problems
+* 🧠 Software Engineer with a focus on Discord.js & Web Development
+* 🎮 Enjoy Open-World, FPS, Adventure, and Platformer games
+* 🚀 Love learning new skills and solving challenging problems
 
 ---
 
